@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Kotsu 👋
 
-<!--
-**Kotsu-dev/Kotsu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1st year Software Engineering student.
 
-Here are some ideas to get you started:
+## 🎓 Currently Learning
+- **OOP** — Object Oriented Programming
+- **Calculus 2 & Physics 2**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+- C++ (primary)
+- Git & GitHub (learning)
+
+## 📫 Find Me
+- LinkedIn: [www.linkedin.com/in/havin-kocaman]
+- Codewars: [https://www.codewars.com/users/Kotsu-dev]
