@@ -1,10 +1,10 @@
-# Hi, I'm Kotsu 👋
+## Hi, I'm Kotsu 👋
 
 1st year Software Engineering student.
 
 ## 🎓 Currently Learning
 - **OOP** — Object Oriented Programming
-- **Calculus 2 & Physics 2**
+- **Programming with C++**
 
 ## 🛠️ Languages & Tools
 - C++ (primary)
