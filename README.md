@@ -1,4 +1,4 @@
-## Hi, I'm Kotsu 👋
+## Hi, I'm Havin 👋
 
 1st year Software Engineering student.
 
