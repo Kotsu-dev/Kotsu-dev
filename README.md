@@ -1,8 +1,9 @@
 ## Hi, I'm Havin 👋
 
-1st year Software Engineering student.
+2nd year Software Engineering student.
 
 ## 🎓 Currently Learning
+- **Python**
 - **OOP** — Object Oriented Programming
 - **Programming with C++**
 
